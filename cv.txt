@@ -1,0 +1,4 @@
+"Ini adalah file CV"
+1 : Shopee
+2 : Skilvul
+3 : Gojek
